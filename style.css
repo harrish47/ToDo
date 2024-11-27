@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgreen;
+    color: black;
+}
+
+header {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin: 10px;
+    border: 2px solid;
+    padding: 50px;
+    background-color:palegreen;
+}
+
+#dataList {
+    list-style-type: none;
+}
+
+#dataList li{
+    display: flex;
+    justify-content:space-between ;
+    padding: 5px;
+}
